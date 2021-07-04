@@ -9,7 +9,7 @@
     "dev": "npx webpack serve --mode development"
   },
   "keywords": [],
-  "author": "",
+  "author": "John Meyer",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.14.5",
